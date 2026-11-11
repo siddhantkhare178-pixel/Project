@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Generated vector database (rebuilt automatically from the PDF)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
